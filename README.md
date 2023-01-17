@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeonardoFranco
 - 👀 I’m interested in Java Script, HTML, CSS & MYSql
 - 🌱 I’m currently learning Java Script 
-- 📫 How to reach me leo55866@gmail.com / +551195798-9519
+- 📫 How to reach me leo55866@gmail.com
 
 ##
 
